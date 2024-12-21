@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Sitemap"
-author_profile: false
+permalink: /sitemap/
+author_profile: true
 ---
 
 {% include base_path %}
