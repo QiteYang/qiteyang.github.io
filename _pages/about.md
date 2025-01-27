@@ -14,6 +14,9 @@ My name is Qi-Te Yang. I received my Master's degree from Xiangtan University in
 
 Publications
 ======
+**2025**
+1. "Evolutionary multitask optimization for multiform feature selection in classification", **Qi-Te Yang**, Xin-Xin Xu, Zhi-Hui Zhan, Jinghui Zhong, Sam Kwong, and Jun Zhang, IEEE Transactions on Cybernetics, 2025, early access. [Supplement]
+
 **2024**
 1. "[A hierarchical and ensemble surrogate-assisted evolutionary algorithm with model reduction for expensive many-objective optimization](https://ieeexplore.ieee.org/abstract/document/10630664/)", **Qi-Te Yang**, Jian-Yu Li, Zhi-Hui Zhan, Yunliang Jiang, Yaochu Jin, and Jun Zhang, IEEE Transactions on Evolutionary Computation, 2024, early access. [Supplement](https://ieeexplore.ieee.org/ielx8/4235/4358751/10630664/supp1-3440354.pdf?arnumber=10630664)
 2. "[Grid classification-based surrogate-assisted particle swarm optimization for expensive multiobjective optimization](https://ieeexplore.ieee.org/abstract/document/10349694)", **Qi-Te Yang**, Zhi-Hui Zhan, Xiao-Fang Liu, Jian-Yu Li, and Jun Zhang, IEEE Transactions on Evolutionary Computation, vol. 28, no. 6, pp. 1867-1881, Dec. 2024. [Supplement](https://ieeexplore.ieee.org/ielx7/4235/10772358/10349694/supp1-3340678.pdf?arnumber=10349694)
