@@ -40,3 +40,21 @@ Publications
    
 **2020**
 1. "[Ra-dominance: A new dominance relationship for preference-based evolutionary multiobjective optimization](https://www.sciencedirect.com/science/article/pii/S1568494620301320)", Juan Zou, **Qite Yang** (Corresponding Author), Shengxiang Yang, and Jinhua Zheng, Applied Soft Computing, vol. 90, 2020, Art. no. 106192.
+
+Professional Activities
+======
+**Journal reviewer**
++ IEEE Transactions on Evolutionary Computation
++ IEEE Transactions on Cybernetics
++ IEEE Transactions on System, Man, and Cybernetics: System
++ IEEE Transactions on Emerging Topics in Computational Intelligence 
++ CAAI Transactions on Intelligence Technology
++ Swarm and Evolutionary Computation
++ Neurocomputing
++ Memetic Computing
+
+**Conference PC member**
++ CEC: 2024, 2025
++ ICACI: 2023, 2025
++ ICONIP: 2023
++ ICSI: 2022
