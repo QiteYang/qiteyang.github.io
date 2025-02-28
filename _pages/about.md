@@ -52,7 +52,7 @@ My name is Qi-Te Yang. I received my Master's degree from Xiangtan University in
 + Neurocomputing
 + Memetic Computing
 
-**Conference PC member**
+**Conference reviewer**
 + IEEE Congress on Evolutionary Computation (CEC): 2024, 2025
 + International Conference on Advanced Computational Intelligence (ICACI): 2023, 2025
 + International Conference on Neural Information Processing (ICONIP): 2023
