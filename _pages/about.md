@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-**Welcome to my homepage!**
+## **Welcome to my homepage!**
 
 My name is Qi-Te Yang. I received my Master's degree from Xiangtan University in 2020 (supervisor: Prof. Juan Zou (邹娟)), and received my Ph.D. degree from South China University of Technology in 2024 (supervisor: Prof. [Zhi-Hui Zhan](https://zhanapollo.github.io/zhanzhh/) (詹志辉)). My research interests in evolutionary computation, multiobjective optimization, surrogate-assisted optimization, and feature selection
 
-Publications
-======
+## Publications
+
 **2025**
 1. "[Evolutionary multitask optimization for multiform feature selection in classification](https://ieeexplore.ieee.org/document/10906435)", **Qi-Te Yang**, Xin-Xin Xu, Zhi-Hui Zhan, Jinghui Zhong, Sam Kwong, and Jun Zhang, IEEE Transactions on Cybernetics, 2025, early access. [Supplement]
 
@@ -41,8 +41,7 @@ Publications
 **2020**
 1. "[Ra-dominance: A new dominance relationship for preference-based evolutionary multiobjective optimization](https://www.sciencedirect.com/science/article/pii/S1568494620301320)", Juan Zou, **Qite Yang** (Corresponding Author), Shengxiang Yang, and Jinhua Zheng, Applied Soft Computing, vol. 90, 2020, Art. no. 106192.
 
-Professional Activities
-======
+## Professional Activities
 **Journal reviewer**
 + IEEE Transactions on Evolutionary Computation
 + IEEE Transactions on Cybernetics
@@ -54,7 +53,7 @@ Professional Activities
 + Memetic Computing
 
 **Conference PC member**
-+ CEC: 2024, 2025
-+ ICACI: 2023, 2025
-+ ICONIP: 2023
-+ ICSI: 2022
++ IEEE Congress on Evolutionary Computation (CEC): 2024, 2025
++ International Conference on Advanced Computational Intelligence (ICACI): 2023, 2025
++ International Conference on Neural Information Processing (ICONIP): 2023
++ International Conference on Swarm Intelligence (ICSI): 2022
