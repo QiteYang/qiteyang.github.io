@@ -10,7 +10,9 @@ redirect_from:
 
 ## **Welcome to my homepage!**
 
-My name is Qi-Te Yang. I received my Master's degree from Xiangtan University in 2020 (supervisor: Prof. Juan Zou (邹娟)), and received my Ph.D. degree from South China University of Technology in 2024 (supervisor: Prof. [Zhi-Hui Zhan](https://zhanapollo.github.io/zhanzhh/) (詹志辉)). My research interests in evolutionary computation, multiobjective optimization, surrogate-assisted optimization, and feature selection
+I am currently a PostDoc in the Department of Electrical and Electronic Engineering, Hanyang University ERICA, Ansan, South Korea.
+
+I received my Master's degree from Xiangtan University in 2020 (supervisor: Prof. Juan Zou (邹娟)), and received my Ph.D. degree from South China University of Technology in 2024 (supervisor: Prof. [Zhi-Hui Zhan](https://zhanapollo.github.io/zhanzhh/) (詹志辉)). My research interests in evolutionary computation, multiobjective optimization, surrogate-assisted optimization, and feature selection
 
 ## Publications (<sup>*</sup>corresponding author, <sup>1</sup>co-first author)
 
