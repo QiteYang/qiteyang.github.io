@@ -10,15 +10,15 @@ redirect_from:
 
 ## **Welcome to my homepage!**
 
-I am currently a PostDoc in the Department of Electrical and Electronic Engineering, Hanyang University ERICA, Ansan, South Korea.
+I am currently a PostDoc in Hanyang University ERICA, Ansan, South Korea.
 
-I received my Master's degree from Xiangtan University in 2020 (supervisor: Prof. Juan Zou (邹娟)), and received my Ph.D. degree from South China University of Technology in 2024 (supervisor: Prof. [Zhi-Hui Zhan](https://zhanapollo.github.io/zhanzhh/) (詹志辉)). My research interests in evolutionary computation, multiobjective optimization, surrogate-assisted optimization, and feature selection
+I received my Master's degree from Xiangtan University in 2020 (supervisor: Prof. Juan Zou (邹娟)), and received my Ph.D. degree from South China University of Technology in 2024 (supervisor: Prof. [Zhi-Hui Zhan](https://zhanapollo.github.io/zhanzhh/) (詹志辉)). My research interests in evolutionary computation, multiobjective optimization, surrogate-assisted optimization, and feature selection.
 
 ## Publications (<sup>*</sup>corresponding author, <sup>1</sup>co-first author)
 
 **2025**
 1. "[Evolutionary multitask optimization for multiform feature selection in classification](https://ieeexplore.ieee.org/document/10906435)", **Qi-Te Yang**, Xin-Xin Xu, Zhi-Hui Zhan, Jinghui Zhong, Sam Kwong, and Jun Zhang, IEEE Transactions on Cybernetics, vol. 55, no. 4, pp. 1673 - 1686, 2025. [Supplement](https://doi.org/10.1109/TCYB.2025.3535722/mm1)
-2. "Bi-velocity coevolutionary multiswarm particle swarm optimization for many-objective gateway placement optimization", Zhou-Zhi Lu, **Qi-Te Yang<sup>*</sup>**, Ke-Jing Du, Jian-Yu Li, Chun-Hua Chen, Qingrui Zhou, Zhi-Hui Zhan, IEEE Congress on Evolutionary Computation (CEC), 2025, accepted.
+2. "[Bi-velocity coevolutionary multiswarm particle swarm optimization for many-objective gateway placement optimization](https://ieeexplore.ieee.org/document/11042963)", Zhou-Zhi Lu, **Qi-Te Yang<sup>*</sup>**, Ke-Jing Du, Jian-Yu Li, Chun-Hua Chen, Qingrui Zhou, Zhi-Hui Zhan, IEEE Congress on Evolutionary Computation (CEC), 2025, pp. 1-8.
 
 **2024**
 1. "[A hierarchical and ensemble surrogate-assisted evolutionary algorithm with model reduction for expensive many-objective optimization](https://ieeexplore.ieee.org/abstract/document/10630664/)", **Qi-Te Yang**, Jian-Yu Li, Zhi-Hui Zhan, Yunliang Jiang, Yaochu Jin, and Jun Zhang, IEEE Transactions on Evolutionary Computation, 2024, early access. [Supplement](https://ieeexplore.ieee.org/ielx8/4235/4358751/10630664/supp1-3440354.pdf?arnumber=10630664)
