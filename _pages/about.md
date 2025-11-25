@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## **Welcome to my homepage!**
+## **About me**
 
 I am currently a PostDoc in Hanyang University ERICA, Ansan, South Korea.
 
